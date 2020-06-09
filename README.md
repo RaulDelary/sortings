@@ -48,7 +48,6 @@ Exemplo:
 
 ### Vetor Desordenado
 
-<<<<<<< HEAD
 ![chart](./ordenado.jpg)
 
 ### Vetor Ordenado
@@ -58,14 +57,3 @@ Exemplo:
 ### Vetor Parcialmente Ordenado
 
 ![chart](./parcialmente_ordenado.jpg)
-=======
-![chart](./desordenado.jpg)
-
-### Vetor Ordenado
-
-![chart](./ordenado.jpg)
-
-### Vetor Parcialmente Ordenado
-
-![chart](./parcialmente_ordenado.jpg)
->>>>>>> 2b298b4a1e5d84fe80f8a2c98fed085f2d7792de
