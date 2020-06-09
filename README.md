@@ -47,10 +47,10 @@ Exemplo:
 ## Gráfico de Comparação Tempo x Tamanho
 
 ### Vetor Desordenado
-![] (/desordenado.jpg)
+![] (https://github.com/RaulDelary/sortings/blob/master/desordenado.jpg)
 
 ### Vetor Ordenado
-![] (/ordenado.jpg)
+![] (https://github.com/RaulDelary/sortings/blob/master/ordenado.jpg)
 
 ### Vetor Parcialmente Ordenado
-![] (/parcialmente_ordenado.jpg)
+![] (https://github.com/RaulDelary/sortings/blob/master/parcialmente_ordenado.jpg)
