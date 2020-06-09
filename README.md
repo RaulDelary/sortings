@@ -48,11 +48,11 @@ Exemplo:
 
 ### Vetor Desordenado
 
-![chart](./ordenado.jpg)
+![chart](./desordenado.jpg)
 
 ### Vetor Ordenado
 
-![chart](./desordenado.jpg)
+![chart](./ordenado.jpg)
 
 ### Vetor Parcialmente Ordenado
 
